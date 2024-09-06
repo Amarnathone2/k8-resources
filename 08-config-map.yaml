@@ -1,0 +1,8 @@
+piVersion: v1
+kind: ConfigMap
+metadata:
+  name: csvdaws78s
+data: 
+course: "DevOps with AWS"
+trainer: "amarnath"
+github: "https://github.com/Amarnathone2/k8-resources.git"  
