@@ -1,5 +1,5 @@
+kind: Pod
 apiVersion: v1
-kind: pod
 metadata:
   name: nginx
   labels:
@@ -8,6 +8,6 @@ metadata:
     component: frontend
     environment: dev
 spec:
-  containers: 
+  containers:
   - name: nginx
-    image: nginx    
+    image: nginx
